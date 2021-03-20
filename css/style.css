@@ -10,6 +10,7 @@ Default css
 }
 body {
     font-family: serif;
+    height: 115vh;
     background: linear-gradient(to right, red, yellow);
 }
 /* 
@@ -92,7 +93,7 @@ input[type="date"] {
     font-size: 18px;
     margin: 21px 0px;
     border-radius: 6px;
-    box-shadow: 2px 4px 7px #2e3455;
+    box-shadow: 1px 2px 7px #2e3455;
     background-color: #000000;
     border: none;
     outline: none;
